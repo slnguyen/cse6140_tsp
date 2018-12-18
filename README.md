@@ -41,4 +41,12 @@ To plot QRTDs and SQDs for the local search neighborhood 2-opt exchange algorith
 ```
 bash plt_local_search.sh
 ```
+from the `/plot` directory. 
 
+Example QRTD:<br />
+
+<img src="imgs/qrtd_2opt.png" width="400"/>
+
+
+Example SQD:<br />
+<img src="imgs/sqd_2opt.png" width="400"/>
